@@ -1,4 +1,4 @@
-# Musiconproject
+# Musicon Project
 Musicon - Music Instruments Online Store
 
 
