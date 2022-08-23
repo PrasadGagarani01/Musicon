@@ -2,7 +2,7 @@
 Musicon - Music Instruments Online Store
 
 
-Project Objectives
+Project Objective
 
 BUILDING INTERACTIVE JAVASCRIPT WEBSITE
 Musicon
